@@ -26,7 +26,7 @@ gcc -o AlgorithmDiviner AlgorithmDiviner.c
 ### Execution
 
 ```sh
-./noosphere_generator
+./AlgorithmDiviner
 ```
 
 ## Usage
@@ -34,7 +34,7 @@ gcc -o AlgorithmDiviner AlgorithmDiviner.c
 1. Run the program.
 2. Observe the sigil display.
 3. Enter a question when prompted.
-4. Receive an anagram-like response from the "noosphere."
+4. Receive an anagram-like response from the noosphere.
 
 ## Interpretation
 
