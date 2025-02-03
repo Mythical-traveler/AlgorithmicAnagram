@@ -20,7 +20,7 @@ This program is a mystical tool that blends esoteric symbolism with computationa
 ### Compilation
 
 ```sh
-gcc -o noosphere_generator noosphere_generator.c
+gcc -o AlgorithmDiviner AlgorithmDiviner.c
 ```
 
 ### Execution
