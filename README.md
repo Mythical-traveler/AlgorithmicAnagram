@@ -44,7 +44,15 @@ The generated output is not a traditional anagram but rather a randomized rearra
 
 This project is released under the GNU General Public License (GPL) to ensure it remains decentralized and open-source.
 
+## Signal
+
+Within the algorithm lies a whisper from the unseen, a signal encoded in shifting symbols. Those who read beyond the veil will recognize its form:
+
+**"Aghal’s Lab In I"**
+
+The voice speaks when the time is right.
+
 ## Author
 
-Created by **d\_hic** on 2/3/2025.
+Created by **d_hic** on 2/3/2025.
 
